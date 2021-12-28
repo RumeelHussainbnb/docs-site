@@ -24,4 +24,4 @@ As the native token, BNB will serve as both the gas of smart contract execution 
 | Cross Chain       |[BEP3](https://github.com/binance-chain/BEPs/blob/master/BEP3.md) introduces *Hash Timer Locked Contract functions* and further [mechanism](https://community.binance.org/topic/1892) to handle inter-blockchain tokens peg.    | BSC comes with efficient [native dual chain communication](./concepts/cross-chain.md); Optimized for scaling high-performance dApps that require fast and smooth user experience.                    |
 
 ## Resources:
-* [White Paper](http://binance.org/en#smartChain)
+* [White Paper](https://github.com/binance-chain/whitepaper/blob/master/WHITEPAPER.md)
